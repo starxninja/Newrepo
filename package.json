@@ -1,0 +1,8 @@
+{
+    "name": "newrepo",
+    "version": "1.0.0",
+    "description": "Basic Node.js project for CI",
+    "scripts": {
+      "test": "echo 'Running tests' && exit 0"
+    }
+  }
